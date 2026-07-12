@@ -7,73 +7,73 @@
 ## Pages
 
 ### בית
-https://-557082ca.zappy5.app
+https://example.com
 חנות הכיסויים הכי טרנדית בישראל מחכה לך! התאמה מושלמת למכשירי סמסונג, הגנה אמיתית ומשלוח מהיר. בוא/י לבטא את האישיות שלך עם עיצובים שרק נחתו מהרשת.
 
 ### טרנדים
-https://-557082ca.zappy5.app/trends
+https://example.com/trends
 גלה את הקולקציות הכי מעודכנות מסמסונג גלקסי ועד מחירון משתלם. קח/י את הסטייל שלך צעד קדימה עם עיצובים שמובילים את הרשת ומגיעים ראשונים לקייס שופ.
 
 ### התאמה והגנה
-https://-557082ca.zappy5.app/fit-protection
+https://example.com/fit-protection
 הכיסויים שלנו מותאמים בדיוק לסמסונג גלקסי שלך, עם הגנה אמיתית בלי לוותר על מראה מהמם. מצא את ההתאמה המושלמת במחירון הכי שווה בישראל.
 
 ### אודות
-https://-557082ca.zappy5.app/about
+https://example.com/about
 אנחנו קייס שופ, צוות צעיר שמביא את הטרנדים הגלובליים הכי לוהטים ישר למכשיר שלך. דוגלים באיכות, מהירות ושירות אישי. הצטרפ/י למהפכת הסטייל של סמסונג גלקסי.
 
 ### צור קשר
-https://-557082ca.zappy5.app/contact
+https://example.com/contact
 יש לך שאלה על התאמה לסמסונג או סתם בא לך לקבל ייעוץ סטייל? צור קשר עם הצוות של קייס שופ ונחזור אליך במהירות עם חיוך ותשובה ששווה את זה.
 
 ### Products
-https://-557082ca.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - קייס שופ
 
 ### Cart
-https://-557082ca.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://-557082ca.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://-557082ca.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://-557082ca.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://-557082ca.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://-557082ca.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - קייס שופ
 
 ### Category
-https://-557082ca.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - קייס שופ
 
 ### תודה - קייס שופ
-https://-557082ca.zappy5.app/thank-you
+https://example.com/thank-you
 קייס שופ - תודה - קייס שופ
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-557082ca.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-557082ca.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-557082ca.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -102,8 +102,8 @@ E-commerce / Mobile Accessories
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-557082ca.zappy5.app/sitemap.xml
-- Robots: https://-557082ca.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-557082ca.zappy5.app/llms-full.txt
-- Products (JSON): https://-557082ca.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-557082ca.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
